@@ -1,3 +1,5 @@
+# taky se nechce rozjet
+
 import copy
 import PyPDF2
 import re
